@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "ルーキー",
+  "base_artist": "DECO*27",
+  "createdAt": "2025-12-03T09:46:58.474703Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ルーキー",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/01_ルーキー_sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ルーキー",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/02_ルーキー_サカナクション.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ルーキー (Takkyu Ishino Remix)",
+      "artist": "sakanaction",
+      "has_synced": false,
+      "path": "select/03_ルーキー_(Takkyu_Ishino_Remix)_sakanaction.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ルーキー (Takkyu Ishino Remix)",
+      "artist": "サカナクション",
+      "has_synced": false,
+      "path": "select/04_ルーキー_(Takkyu_Ishino_Remix)_サカナクション.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ルーキー",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/05_ルーキー_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ルーキー",
+      "artist": "玉置 浩二",
+      "has_synced": false,
+      "path": "select/06_ルーキー_玉置_浩二.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ルーキー",
+      "artist": "玉置浩二",
+      "has_synced": false,
+      "path": "select/07_ルーキー_玉置浩二.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "キング・オブ・ルーキー",
+      "artist": "THE BLUE HEARTS",
+      "has_synced": false,
+      "path": "select/08_キング・オブ・ルーキー_THE_BLUE_HEARTS.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ルーキー",
+      "artist": "Ueda Marie",
+      "has_synced": false,
+      "path": "select/09_ルーキー_Ueda_Marie.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ルーキー",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/10_ルーキー_サカナクション.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ルーキー",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/11_ルーキー_サカナクション.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ルーキー (Takkyu Ishino Remix)",
+      "artist": "Sakanaction (サカナクション)",
+      "has_synced": false,
+      "path": "select/12_ルーキー_(Takkyu_Ishino_Remix)_Sakanaction_(サカナクション).txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ルーキー",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/13_ルーキー_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ルーキー (Hiroshi Fujiwara Remix)",
+      "artist": "sakanaction",
+      "has_synced": false,
+      "path": "select/14_ルーキー_(Hiroshi_Fujiwara_Remix)_sakanaction.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ルーキー",
+      "artist": "DECO*27",
+      "has_synced": false,
+      "path": "select/pl_01_ルーキー_DECO_27.txt"
+    }
+  ]
+}
